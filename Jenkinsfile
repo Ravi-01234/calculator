@@ -6,7 +6,7 @@ pipeline {
 	stages {
     	stage("Checkout") {   
         	steps {               	 
-            	git url: 'https://github.com/akshu20791/calculator'          	 
+            	git url: 'https://github.com/Ravi-01234/calculator'          	 
            	 
         	}    
     	}
